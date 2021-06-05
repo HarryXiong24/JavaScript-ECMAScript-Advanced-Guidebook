@@ -1582,7 +1582,7 @@ obj.toString(); // MyObject: [object Object]
 
 
 
-## ES6的继承模式
+## ES6 继承机制
 
 ### 基本概述
 
@@ -1712,6 +1712,10 @@ p1.printName() // "Ha"
 ```
 
 上面代码在`ColorPoint`的实例`p2`上向`Point`类添加方法，结果影响到了`Point`的实例`p1`。
+
+下面用一张图进行总结：
+
+![ES6 Prototype](../img/ES6 Prototype.png)
 
 
 
