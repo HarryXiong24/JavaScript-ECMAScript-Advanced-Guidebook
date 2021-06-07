@@ -12,6 +12,8 @@
 
 本教程适合具备一定 JavaScript 和 ECMAScript 知识的读者浏览，初学者建议先从入门教程开始阅读。
 
+其中，1-20章节为核心知识内容，从21章开始，为 JavaScript 和 ECMAScript的扩展内容。
+
 
 
 ## 参考与引用
