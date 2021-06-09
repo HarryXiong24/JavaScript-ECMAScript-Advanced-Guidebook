@@ -49,9 +49,15 @@
 
 ## 参考与引用
 
-1. [JavaScript 教程](https://wangdoc.com/javascript/)
+1. [ECMAScript® 2015 Language Specification](https://262.ecma-international.org/6.0/)
 
-2. [ES6 教程](https://wangdoc.com/es6/index.html)
+2. [Node](https://nodejs.org/en/docs/)
 
-   
+3. [JavaScript 教程](https://wangdoc.com/javascript/)
+
+4. [ES6 教程](https://wangdoc.com/es6/index.html)
+
+5. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+    
 
