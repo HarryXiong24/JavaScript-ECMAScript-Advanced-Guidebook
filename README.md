@@ -51,13 +51,15 @@
 
 1. [ECMAScript® 2015 Language Specification](https://262.ecma-international.org/6.0/)
 
-2. [Node](https://nodejs.org/en/docs/)
+2. [JavaScript 教程 MDN版](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
 
-3. [JavaScript 教程](https://wangdoc.com/javascript/)
+3. [JavaScript 教程 网道版](https://wangdoc.com/javascript/)
 
-4. [ES6 教程](https://wangdoc.com/es6/index.html)
+4. [ES6 教程 网道版](https://wangdoc.com/es6/index.html)
 
-5. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+5. [Node](https://nodejs.org/en/docs/)
 
-    
+6. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+     
 
