@@ -30,10 +30,13 @@
 18. Reflect
 19. Module 模块化
 20. 模块加载的实现
-21. 编程风格
-22. 正则表达式
-23. ArrayBuffer
-24. 标准对象库
+21. DOM
+22. DOM 事件
+23. BOM
+24. 编程风格
+25. 正则表达式
+26. ArrayBuffer
+27. 标准对象库
 
 
 
@@ -41,7 +44,7 @@
 
 本教程不会涉及 JavaScript 和 ECMAScript 基础知识，比如 JavaScript 的基本语法，变量定义，基本类型使用等基础知识，所以本教程适合具备一定 JavaScript 和 ECMAScript 基础知识的读者浏览，初学者建议先从入门教程开始阅读。
 
-本教程中，1-20章节为核心知识内容，从21章开始，为 JavaScript 和 ECMAScript的扩展内容。
+本教程中，1-24章节为核心知识内容，从21章开始，为 JavaScript 和 ECMAScript的扩展内容。
 
 本教程即可作为教程，也可以作为文档查阅。
 
