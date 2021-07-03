@@ -61,5 +61,11 @@
 
 6. [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
-     
+   
+
+## License
+
+Copyright © 2021 [Harry Xiong](https://github.com/HarryXiong24).
+
+This project is [MIT](https://github.com/HarryXiong24/JavaScript-ECMAScript-Advanced-Guidebook/blob/master/LICENSE) licensed.
 
