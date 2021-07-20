@@ -4,7 +4,7 @@
 
 ## 简介
 
-本教程系统的总结了从 JavaScript 到 ECMAScript 的重难点以及高阶使用方法。
+本教程系统的归纳和总结了从 JavaScript 到 ECMAScript 的重难点以及高阶使用方法。
 
 
 
